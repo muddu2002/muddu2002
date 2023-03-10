@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muddu2002
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning pyth0n
+- 🌱 I’m currently learning pyth0n and Java.
 - 
 
 <!---
